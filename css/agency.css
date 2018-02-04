@@ -456,7 +456,7 @@ header.masthead .intro-text .intro-heading {
 .timeline > li .timeline-image h4 {
   font-size: 10px;
   line-height: 14px;
-  margin-top: 12px;
+  margin-top: 5px;
 }
 
 .timeline > li.timeline-inverted > .timeline-panel {
@@ -519,8 +519,8 @@ header.masthead .intro-text .intro-heading {
   }
   .timeline > li .timeline-image h4 {
     font-size: 13px;
-    line-height: 18px;
-    margin-top: 16px;
+    line-height: 17px;
+    margin-top: 8px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
     float: right;
@@ -544,7 +544,7 @@ header.masthead .intro-text .intro-heading {
   .timeline > li .timeline-image h4 {
     font-size: 18px;
     line-height: 26px;
-    margin-top: 30px;
+    margin-top: 17px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 20px 20px;
@@ -564,7 +564,7 @@ header.masthead .intro-text .intro-heading {
     margin-left: -85px;
   }
   .timeline > li .timeline-image h4 {
-    margin-top: 40px;
+    margin-top: 26px;
   }
   .timeline > li.timeline-inverted > .timeline-panel {
     padding: 0 100px 20px 20px;
@@ -693,3 +693,7 @@ ul.social-buttons li a {
 ul.social-buttons li a:active, ul.social-buttons li a:focus, ul.social-buttons li a:hover {
   background-color: #7f7f7f;
 }
+
+ .centerHorizontal{
+  justify-content: center;
+ }
